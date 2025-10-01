@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**Lobash1/Lobash1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center"><u>Lobash Anastasiia</u></h2>
 
-Here are some ideas to get you started:
+![I’m driven by a strong  desire to grow, create meaningful projects, and be part of a team that builds great products. copy/paste/download.](images/banner.png)
+<h4 align="center"> I’m driven by a strong  desire to grow, create meaningful projects, and be part of a team that builds great products. copy/paste/download. </h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<br>
+</p>
+
+### [+] Description
+I am a Junior Front-End Developer who made a life-changing decision to enter the IT field
+with full dedication. I specialize in HTML5, CSS3, JavaScript, and React. 
+
