@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <!-- <img src="https://github.com/LOBASH1/LOBASH1/blob/main/assets/banner.png" alt="banner" width="100%" /> -->
-  <img src="/assets//YaKotKod.jpg"  width="100%">
-</p>
 
 <h1 align="center">Hi there 👋 I'm <span style="color:#db574d">Lobash Anastasiia</span></h1>
 <h3 align="center">💻 Front-End Developer | Passionate about creating beautiful and functional interfaces</h3>
@@ -57,5 +52,10 @@ and be part of a team that builds great products.
 </p>
 
 ---
+
+<p align="center">
+  <!-- <img src="https://github.com/LOBASH1/LOBASH1/blob/main/assets/banner.png" alt="banner" width="100%" /> -->
+  <img src="/assets//YaKotKod.jpg"  width="100%">
+</p>
 
 ⭐️ _“Code, create, and keep growing.”_
