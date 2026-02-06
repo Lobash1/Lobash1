@@ -26,6 +26,79 @@ and be part of a team that builds great products.
 
 ---
 
+🚀 Featured Projects
+🥑 Keto Cookbook — Full-Stack Recipe Platform
+
+Personal recipe management platform with authentication and private content control.
+Includes protected routes, CRUD operations, image upload (Firebase Storage), and category filtering.
+
+Tech Stack
+
+
+
+
+
+
+
+
+🔗 https://keto-cookbook.vercel.app/
+
+🧁 Sweet Chest — Pastry Showcase Website
+
+Elegant dessert catalog website focused on visual presentation and structured layout.
+Responsive design, interactive UI elements and clean component structure.
+
+Tech Stack
+
+
+
+
+
+
+🔗 https://lobash1.github.io/sweet-chest/
+
+🚗 RentalCar — Car Rental Application
+
+SPA with filtering system, pagination, API integration and favorites management using global state.
+
+Tech Stack
+
+
+
+
+
+
+🔗 https://lobash1.github.io/rentalcar/
+
+🌍 Learn Lingo — Language Learning Platform
+
+Interactive teacher catalog with filtering, favorites and Firebase authentication.
+
+Tech Stack
+
+
+
+
+
+
+🔗 https://lobash1.github.io/learn-lingo/
+
+
+---
+
+
+📌 Other Projects
+
+Image Finder (React + API)
+
+Contact Book (React + Redux Toolkit + REST)
+
+CRM (Next.js)
+
+Photographer Portfolio
+
+JavaScript Advanced Tasks
+
 ### 🚀 My Projects
 
 | Project               | Description                                                  | Tech Stack                     | Link                                                                  |
